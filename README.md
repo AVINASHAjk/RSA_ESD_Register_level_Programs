@@ -49,3 +49,4 @@ Upload the code to your Arduino Mega 2560.
 Upon powering the system, the LCD will show a default message.
 Touch the Touch Sensor to activate the system, triggering the ultrasonic sensor to measure and display the distance.
 The distance will be shown on the I2C LCD in real-time.
+![image](https://github.com/user-attachments/assets/bf0cd11b-9692-44ee-bdf0-3f73e9ec16c5)
